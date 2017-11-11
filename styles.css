@@ -1,0 +1,31 @@
+#posey{
+  width: 1000px;
+  margin: auto;
+  display:block;
+}
+#menu{
+  font-size: 50px;
+  font-family: system-ui;
+  font-weight: lighter;
+  text-align: center;
+  padding-bottom: 20px;
+}
+a{
+  color:gray;
+  text-decoration: none;
+  margin: 40px;
+  text-align: center;
+}
+#paragraph{
+  font-size: 30px;
+  font-family:system-ui;
+  font-weight: lighter;
+}
+#posey1{
+  margin: auto;
+  display:block;
+}
+#whole30 {
+  font-size: 60px;
+  font-family: system-ui;
+}
